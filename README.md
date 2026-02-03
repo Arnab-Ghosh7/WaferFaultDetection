@@ -97,7 +97,9 @@ WaferFaultDetection/
     *   Download the detailed prediction report.
 
 ## ✍️ Author
+**[Arnab Ghosh]**
 
+*   **GitHub Profile**: [https://github.com/Arnab-Ghosh7](https://github.com/Arnab-Ghosh7)
 
 
 ## 🤝 Contribution
