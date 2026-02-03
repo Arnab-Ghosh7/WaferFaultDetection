@@ -98,11 +98,9 @@ WaferFaultDetection/
 
 ## ✍️ Author
 
-**[Your Name]**
+**[Arnab Ghosh]**
 
 *   **GitHub Profile**: [https://github.com/Arnab-Ghosh7](https://github.com/Arnab-Ghosh7)
-*   **Email**: [your.email@example.com]
-*   **LinkedIn**: [Your LinkedIn Profile]
 
 ## 🤝 Contribution
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/WaferFaultDetection/issues).
