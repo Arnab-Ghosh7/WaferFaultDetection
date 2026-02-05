@@ -18,7 +18,18 @@ This application automates the detection process using sensor data. It employs a
 
 The solution is wrapped in a user-friendly Flask web application, allowing operators to easily upload data batches and receive instant prediction reports.
 
+## 🚀 Key Features
 
+*   ** Automated Data Validation**: rigoros checks for schema compliane, file name formats, and data integrity.
+*   **Intelligent Preprocessing**: 
+    *   Automated handling of missing values using KNN imputation.
+    *   Dimensionality reduction by removing low-variance features.
+*   **Advanced ML Pipeline**: 
+    *   **Clustering**: Utilizes **K-Means** to segment data, handling data heterogeneity.
+    *   **Dynamic Model Selection**: Trains multiple models (Random Forest, XGBoost) for *each* cluster and selects the one with the best AUC score.
+*   **Web Interface**: Intuitive UI built with Bootstrap for easy interaction.
+*   **Robust Logging**: Detailed logs for every step of the pipeline (Training, Prediction, DB operations) to aid debugging and auditing.
+*   **Scalable Architecture**: Modular code structure allowing for easy maintenance and scalability.
 
 
 ## 🛠️ Technology Stack
