@@ -84,7 +84,10 @@ WaferFaultDetection/
 
 ## 🏃 Usage
 
-
+1.  **Start the Server**:
+    ```bash
+    python main.py
+    ```
 
 2.  **Open Web App**:
     Go to `http://localhost:5000` in your web browser.
