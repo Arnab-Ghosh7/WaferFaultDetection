@@ -8,15 +8,7 @@
 
 
 ## 📌 Project Overview
-The **Wafer Fault Detection** project is a sophisticated machine learning solution tailored for the semiconductor industry. Wafers are critical components in electronics manufacturing, serving as the substrate for integrated circuits. The manufacturing process is complex, expensive, and prone to defects. Identifying these faults early in the production line is crucial to:
 
-*   **Reduce Costs**: Minimizing waste of expensive materials.
-*   **Improve Yield**: Ensuring a higher percentage of usable chips.
-*   **Optimize Process**: Providing feedback to adjust manufacturing parameters.
-
-This application automates the detection process using sensor data. It employs a robust pipeline that handles data ingestion, validating raw data streams, preprocessing (including handling missing values and scaling), and applying advanced clustering techniques to group similar data patterns. For each cluster, the system dynamically selects and tunes the best-performing machine learning model (such as Random Forest or XGBoost) to predict whether a wafer is "Good" or "Bad" with high accuracy.
-
-The solution is wrapped in a user-friendly Flask web application, allowing operators to easily upload data batches and receive instant prediction reports.
 
 ## 🚀 Key Features
 
