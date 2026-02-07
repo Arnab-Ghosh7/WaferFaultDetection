@@ -106,6 +106,3 @@ WaferFaultDetection/
 ## 🤝 Contribution
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Arnab-Ghosh7/WaferFaultDetection/issues).
 
-## 📄 License
-This project is licensed under the [GNU License](LICENSE).
-
