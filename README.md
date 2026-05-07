@@ -8,7 +8,7 @@
 
 
 ## 📌 Project Overview
-The **Wafer Fault Detection** project is a sophisticated machine learning solution tailored for the semiconductor industry. Wafers are critical components in electronics manufacturing, serving as the substrate for integrated circuits. The manufacturing process is complex, expensive, and prone to defects. Identifying these faults early in the production line is crucial to:
+
 
 *   **Reduce Costs**: Minimizing waste of expensive materials.
 *   **Improve Yield**: Ensuring a higher percentage of usable chips.
