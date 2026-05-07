@@ -44,7 +44,23 @@ The solution is wrapped in a user-friendly Flask web application, allowing opera
 ## 📂 Project Structure
 
 ```
-
+WaferFaultDetection/
+├── application_logging/    # Custom logging modules for tracking app events
+├── best_model_finder/      # Logic for model selection and hyperparameter tuning
+├── data_ingestion/         # Modules for reading and loading data
+├── data_preprocessing/     # Data cleaning, transformation, and clustering
+├── DataTransform_Training/ # formatting training data
+├── DataTransformation_Prediction/ # Formatting prediction data
+├── DataTypeValidation_Insertion_Training/ # Schema validation & DB insertion (Training)
+├── DataTypeValidation_Insertion_Prediction/ # Schema validation & DB insertion (Prediction)
+├── file_operations/        # Saving and loading trained models
+├── models/                 # specific directory for saving models
+├── templates/              # HTML templates for the web interface
+├── main.py                 # Application entry point (Flask App)
+├── trainingModel.py        # Driver script for the training pipeline
+├── predictFromModel.py     # Driver script for the prediction pipeline
+├── requirements.txt        # Python dependencies
+└── ...
 ```
 
 ## ⚙️ Installation
