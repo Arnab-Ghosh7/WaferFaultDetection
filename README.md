@@ -20,7 +20,7 @@ The solution is wrapped in a user-friendly Flask web application, allowing opera
 
 ## 🚀 Key Features
 
-*   ** Automated Data Validation**: rigoros checks for schema compliane, file name formats, and data integrity.
+*   **Automated Data Validation**: rigoros checks for schema compliane, file name formats, and data integrity.
 *   **Intelligent Preprocessing**: 
     *   Automated handling of missing values using KNN imputation.
     *   Dimensionality reduction by removing low-variance features.
