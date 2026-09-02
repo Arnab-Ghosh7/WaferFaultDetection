@@ -1,4 +1,17 @@
+# Wafer Fault Detection
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.0%2B-green?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## 📌 Project Overview
+The **Wafer Fault Detection** project is a sophisticated machine learning solution tailored for the semiconductor industry. Wafers are critical components in electronics manufacturing, serving as the substrate for integrated circuits. The manufacturing process is complex, expensive, and prone to defects. Identifying these faults early in the production line is crucial to:
+
+*   **Reduce Costs**: Minimizing waste of expensive materials.
+*   **Improve Yield**: Ensuring a higher percentage of usable chips.
+*   **Optimize Process**: Providing feedback to adjust manufacturing parameters.
 
 
 This application automates the detection process using sensor data. It employs a robust pipeline that handles data ingestion, validating raw data streams, preprocessing (including handling missing values and scaling), and applying advanced clustering techniques to group similar data patterns. For each cluster, the system dynamically selects and tunes the best-performing machine learning model (such as Random Forest or XGBoost) to predict whether a wafer is "Good" or "Bad" with high accuracy.
